@@ -1,0 +1,3 @@
+09:26:03 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+09:26:03 [SpringContextShutdownHook] INFO  c.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+09:26:03 [SpringContextShutdownHook] INFO  c.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
